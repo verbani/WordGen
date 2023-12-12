@@ -1,2 +1,4 @@
 # WordGen
- randomword
+ require PySimpleGUI
+
+ pip install PySimpleGUI
